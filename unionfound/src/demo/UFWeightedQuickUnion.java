@@ -1,3 +1,4 @@
+package demo;
 
 public class UFWeightedQuickUnion extends UFQuickUnion {
 	

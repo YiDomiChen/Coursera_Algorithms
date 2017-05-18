@@ -1,3 +1,4 @@
+package demo;
 
 public interface UnionFind {
 	void union(int p, int q);

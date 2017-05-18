@@ -1,3 +1,4 @@
+package demo;
 
 public class UFQuickUnion implements UnionFind {
 	
